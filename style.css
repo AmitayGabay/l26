@@ -10,3 +10,13 @@ h1{
     text-align: center;
     margin: 0;
 }
+
+h2{
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(167, 221, 60);
+    background: rgb(255, 255, 255);
+    text-shadow: rgb(128, 0, 64) 2px 0px 0px, rgba(77, 0, 38, 0.5) 3px 2px 0px, rgb(255, 0, 43) 3px 0px 3px, rgb(128, 0, 21) 5px 0px 3px, rgba(77, 0, 13, 0.5) 6px 2px 3px, rgb(255, 85, 0) 6px 0px 9px, rgb(128, 42, 0) 8px 0px 9px, rgba(77, 25, 0, 0.5) 9px 2px 9px, rgb(255, 213, 0) 9px 0px 18px, rgb(128, 106, 0) 11px 0px 18px, rgba(77, 66, 0, 0.5) 12px 2px 18px, rgb(212, 255, 0) 12px 0px 30px, rgb(106, 128, 0) 14px 0px 30px, rgba(64, 77, 0, 0.5) 15px 2px 30px, rgb(128, 255, 0) 15px 0px 45px, rgb(64, 128, 0) 17px 0px 45px, rgba(38, 77, 0, 0.5) 17px 2px 45px;
+    text-align: center;
+    margin: 0;
+}
